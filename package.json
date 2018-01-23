@@ -1,0 +1,26 @@
+{
+  "name": "hangmannode",
+  "version": "1.0.0",
+  "description": "hangman in nodeJS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lexdexic/hangmanNode.git"
+  },
+  "keywords": [
+    "hangman",
+    "nodeJS"
+  ],
+  "author": "Jeremy Andersen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lexdexic/hangmanNode/issues"
+  },
+  "homepage": "https://github.com/Lexdexic/hangmanNode#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1"
+  }
+}
